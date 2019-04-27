@@ -1,0 +1,204 @@
+
+/* Class = "UINavigationItem"; title = "Start"; ObjectID = "0wH-2A-war"; */
+"0wH-2A-war.title" = "Start";
+
+/* Class = "UILabel"; text = "New medicine"; ObjectID = "3nF-y8-cTF"; */
+"3nF-y8-cTF.text" = "Ny medicin";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4RK-2U-jzg"; */
+"4RK-2U-jzg.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "New treatment"; ObjectID = "4Y2-hq-plh"; */
+"4Y2-hq-plh.placeholder" = "Ny behandling";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5UI-8k-IPj"; */
+"5UI-8k-IPj.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Medicine name"; ObjectID = "9ob-Gq-Nnp"; */
+"9ob-Gq-Nnp.placeholder" = "Medicin namn";
+
+/* Class = "UIButton"; normalTitle = "- Treatments"; ObjectID = "C9m-1L-8SB"; */
+"C9m-1L-8SB.normalTitle" = "  Behandlingar";
+
+
+"UiC-3d-1sg.text" = "Avklarade behandlingar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G3d-J9-DKF"; */
+"G3d-J9-DKF.text" = "Label";
+
+/* Class = "UILabel"; text = "Create account"; ObjectID = "HAK-8n-unM"; */
+"HAK-8n-unM.text" = "Skapa konto";
+
+/* Class = "UIButton"; normalTitle = "- 1177 Medicalcare guide"; ObjectID = "IaZ-uf-TaA"; */
+"IaZ-uf-TaA.normalTitle" = "- 1177 Vårdguiden guide";
+
+/* Class = "UILabel"; text = "Go in"; ObjectID = "Ixh-O5-9NY"; */
+"Ixh-O5-9NY.text" = "Gå in";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Iyy-aq-nb1"; */
+"Iyy-aq-nb1.placeholder" = "Lösenord";
+
+/* Class = "UIButton"; normalTitle = "Stockholm"; ObjectID = "Jot-WP-aRJ"; */
+"Jot-WP-aRJ.normalTitle" = "Stockholm";
+
+/* Class = "UIBarButtonItem"; title = "❮ back"; ObjectID = "KW2-Lp-fG8"; */
+"KW2-Lp-fG8.title" = "❮ tillbaka";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LVf-aR-wxK"; */
+"LVf-aR-wxK.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "M0n-L5-CRA"; */
+"M0n-L5-CRA.placeholder" = "bekräfta lösenord";
+
+/* Class = "UILabel"; text = "New treatments"; ObjectID = "OP2-D8-uax"; */
+"OP2-D8-uax.text" = "Ny behandling";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PU3-FY-d78"; */
+"PU3-FY-d78.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Create account"; ObjectID = "Ppc-uS-e1W"; */
+"Ppc-uS-e1W.normalTitle" = "Skapa konto";
+
+/* Class = "UIButton"; normalTitle = "Göteborg"; ObjectID = "Qzo-kS-QpP"; */
+"Qzo-kS-QpP.normalTitle" = "Göteborg";
+
+/* Class = "UIBarButtonItem"; title = "❮ Gå ut"; ObjectID = "R17-xa-bTi"; */
+"R17-xa-bTi.title" = "❮ Gå ut";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "R9O-4d-LWS"; */
+"R9O-4d-LWS.text" = "Historik";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "U1U-0G-rqk"; */
+"U1U-0G-rqk.placeholder" = "Lösenord";
+
+/* Class = "UIBarButtonItem"; title = "❮Start"; ObjectID = "U3j-lL-Ish"; */
+"U3j-lL-Ish.title" = "❮Start";
+
+/* Class = "UIButton"; normalTitle = "Malmö"; ObjectID = "X0Z-PN-ycs"; */
+"X0Z-PN-ycs.normalTitle" = "Malmö";
+
+/* Class = "UITextField"; placeholder = "e-mail"; ObjectID = "YKk-NW-gTG"; */
+"YKk-NW-gTG.placeholder" = "e-mail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YWJ-mq-Fjq"; */
+"YWJ-mq-Fjq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "- patient associations"; ObjectID = "YqO-Bh-cmW"; */
+"YqO-Bh-cmW.normalTitle" = "- patient föreningar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YsB-R1-nbY"; */
+"YsB-R1-nbY.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "❮ Go out"; ObjectID = "ZAe-iI-Rah"; */
+"ZAe-iI-Rah.title" = "❮ Gå ut";
+
+/* Class = "UIButton"; normalTitle = "Luleå"; ObjectID = "ZBv-lU-s5o"; */
+"ZBv-lU-s5o.normalTitle" = "Luleå";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zmz-Mw-yuc"; */
+"Zmz-Mw-yuc.text" = "Label";
+
+/* Class = "UILabel"; text = "ASIH"; ObjectID = "aSk-Ay-VKx"; */
+"aSk-Ay-VKx.text" = "ASIH";
+
+/* Class = "UINavigationItem"; title = "Treatments"; ObjectID = "bEI-hL-E9Q"; */
+"bEI-hL-E9Q.title" = "  Behandlingar";
+
+/* Class = "UIButton"; normalTitle = "Add new"; ObjectID = "c20-YR-rCU"; */
+"c20-YR-rCU.normalTitle" = "Lägg till";
+
+/* Class = "UILabel"; text = "New user"; ObjectID = "cbT-zl-Nmi"; */
+"cbT-zl-Nmi.text" = "Ny användare";
+
+/* Class = "UINavigationItem"; title = "Behandlingar"; ObjectID = "cxC-7v-iUH"; */
+"cxC-7v-iUH.title" = "Behandlingar";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "dD7-bN-HOZ"; */
+"dD7-bN-HOZ.title" = "Item";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "egJ-D5-7RH"; */
+"egJ-D5-7RH.text" = "0";
+
+/* Class = "UIBarButtonItem"; title = "❮ Back"; ObjectID = "f9h-UC-d6P"; */
+"f9h-UC-d6P.title" = "❮ Tillbaka";
+
+/* Class = "UIBarButtonItem"; title = "❮ Back"; ObjectID = "fSU-uW-PmL"; */
+"fSU-uW-PmL.title" = "❮ Tillbaka";
+
+/* Class = "UIButton"; normalTitle = "- Hospitals in sweden"; ObjectID = "fbH-4o-BeP"; */
+"fbH-4o-BeP.normalTitle" = "- Sjukhus i Sverige";
+
+/* Class = "UIButton"; normalTitle = "Göteborg"; ObjectID = "ffd-aS-h2o"; */
+"ffd-aS-h2o.normalTitle" = "Göteborg";
+
+/* Class = "UILabel"; text = "transportation service"; ObjectID = "g3W-Sa-L49"; */
+"g3W-Sa-L49.text" = "Färdtjänst";
+
+/* Class = "UILabel"; text = "Latest treatments"; ObjectID = "gRm-d5-bUl"; */
+"gRm-d5-bUl.text" = "Senaste behandlingar";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "gZe-cm-1GP"; */
+"gZe-cm-1GP.normalTitle" = "Lägg till";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hdf-Q9-GeF"; */
+"hdf-Q9-GeF.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "ivN-JA-tLK"; */
+"ivN-JA-tLK.title" = "Kontakter";
+
+/* Class = "UIButton"; normalTitle = "- Social Insurance Agency"; ObjectID = "ixb-ft-MON"; */
+"ixb-ft-MON.normalTitle" = "Försäkringskassan";
+
+/* Class = "UIButton"; normalTitle = "Malmö"; ObjectID = "j5l-Ul-W5t"; */
+"j5l-Ul-W5t.normalTitle" = "Malmö";
+
+/* Class = "UILabel"; text = "Healthare centers"; ObjectID = "k83-iG-0s1"; */
+"k83-iG-0s1.text" = "Vårdmottagningar";
+
+/* Class = "UINavigationItem"; title = "My medicine"; ObjectID = "kNz-IE-wsf"; */
+"kNz-IE-wsf.title" = "Mina mediciner";
+
+/* Class = "UIButton"; normalTitle = "Stockholm"; ObjectID = "lgg-sT-EMb"; */
+"lgg-sT-EMb.normalTitle" = "Stockholm";
+
+/* Class = "UIButton"; normalTitle = "Cansel"; ObjectID = "njO-9q-PdV"; */
+"njO-9q-PdV.normalTitle" = "Avbryt";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pwh-JW-yQ3"; */
+"pwh-JW-yQ3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "reN-cI-d5Z"; */
+"reN-cI-d5Z.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "taI-VT-PaJ"; */
+"taI-VT-PaJ.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "new treatment"; ObjectID = "tzY-aK-w2D"; */
+"tzY-aK-w2D.placeholder" = "ny behandling";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u2y-NK-MZ1"; */
+"u2y-NK-MZ1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Stockholm"; ObjectID = "ugf-NG-W3N"; */
+"ugf-NG-W3N.normalTitle" = "Stockholm";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "vnk-Sv-ghm"; */
+"vnk-Sv-ghm.normalTitle" = "Gå in";
+
+/* Class = "UIButton"; normalTitle = "Luleå"; ObjectID = "wdI-tL-ZrY"; */
+"wdI-tL-ZrY.normalTitle" = "Luleå";
+
+/* Class = "UIButton"; normalTitle = "- My medicines"; ObjectID = "xS8-lV-tIc"; */
+"xS8-lV-tIc.normalTitle" = "  Mina mediciner";
+
+/* Class = "UITextField"; placeholder = "e-mail"; ObjectID = "yIn-EL-JNp"; */
+"yIn-EL-JNp.placeholder" = "e-mail";
+
+/* Class = "UIButton"; normalTitle = "Malmö"; ObjectID = "yic-Zn-RUY"; */
+"yic-Zn-RUY.normalTitle" = "Malmö";
+
+/* Class = "UIButton"; normalTitle = "Göteborg"; ObjectID = "zFF-Wy-7dV"; */
+"zFF-Wy-7dV.normalTitle" = "Göteborg";
+
+/* Class = "UIButton"; normalTitle = "- Care contacts"; ObjectID = "zxy-4r-7Rd"; */
+"zxy-4r-7Rd.normalTitle" = "  Vårdkontakter";
