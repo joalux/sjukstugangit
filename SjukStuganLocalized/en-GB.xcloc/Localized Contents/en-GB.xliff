@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="SjukStugan/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="en-GB">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="0wH-2A-war.title">
+        <source>Start</source>
+        <target>Start</target>
+        <note>Class = "UINavigationItem"; title = "Start"; ObjectID = "0wH-2A-war";</note>
+      </trans-unit>
+      <trans-unit id="3nF-y8-cTF.text">
+        <source>Ny medicin</source>
+        <target>Ny medicin</target>
+        <note>Class = "UILabel"; text = "Ny medicin"; ObjectID = "3nF-y8-cTF";</note>
+      </trans-unit>
+      <trans-unit id="4RK-2U-jzg.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "4RK-2U-jzg";</note>
+      </trans-unit>
+      <trans-unit id="4Y2-hq-plh.placeholder">
+        <source>Ny behandling</source>
+        <target>Ny behandling</target>
+        <note>Class = "UITextField"; placeholder = "Ny behandling"; ObjectID = "4Y2-hq-plh";</note>
+      </trans-unit>
+      <trans-unit id="5UI-8k-IPj.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "5UI-8k-IPj";</note>
+      </trans-unit>
+      <trans-unit id="9ob-Gq-Nnp.placeholder">
+        <source>Medicin namn</source>
+        <target>Medicin namn</target>
+        <note>Class = "UITextField"; placeholder = "Medicin namn"; ObjectID = "9ob-Gq-Nnp";</note>
+      </trans-unit>
+      <trans-unit id="C9m-1L-8SB.normalTitle">
+        <source>- Behandlingar</source>
+        <target>- Behandlingar</target>
+        <note>Class = "UIButton"; normalTitle = "- Behandlingar"; ObjectID = "C9m-1L-8SB";</note>
+      </trans-unit>
+      <trans-unit id="G3d-J9-DKF.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "G3d-J9-DKF";</note>
+      </trans-unit>
+      <trans-unit id="HAK-8n-unM.text">
+        <source>Skapa konto</source>
+        <target>Skapa konto</target>
+        <note>Class = "UILabel"; text = "Skapa konto"; ObjectID = "HAK-8n-unM";</note>
+      </trans-unit>
+      <trans-unit id="IaZ-uf-TaA.normalTitle">
+        <source>- 1177 Vårdguiden</source>
+        <target>- 1177 Vårdguiden</target>
+        <note>Class = "UIButton"; normalTitle = "- 1177 Vårdguiden"; ObjectID = "IaZ-uf-TaA";</note>
+      </trans-unit>
+      <trans-unit id="Ixh-O5-9NY.text">
+        <source>Gå in</source>
+        <target>Gå in</target>
+        <note>Class = "UILabel"; text = "Gå in"; ObjectID = "Ixh-O5-9NY";</note>
+      </trans-unit>
+      <trans-unit id="Iyy-aq-nb1.placeholder">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "Iyy-aq-nb1";</note>
+      </trans-unit>
+      <trans-unit id="Jot-WP-aRJ.normalTitle">
+        <source>Stockholm</source>
+        <target>Stockholm</target>
+        <note>Class = "UIButton"; normalTitle = "Stockholm"; ObjectID = "Jot-WP-aRJ";</note>
+      </trans-unit>
+      <trans-unit id="KW2-Lp-fG8.title">
+        <source>❮Tillbaka</source>
+        <target>❮Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "❮Tillbaka"; ObjectID = "KW2-Lp-fG8";</note>
+      </trans-unit>
+      <trans-unit id="LVf-aR-wxK.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "LVf-aR-wxK";</note>
+      </trans-unit>
+      <trans-unit id="M0n-L5-CRA.placeholder">
+        <source>Confirm password</source>
+        <target>Confirm password</target>
+        <note>Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "M0n-L5-CRA";</note>
+      </trans-unit>
+      <trans-unit id="OP2-D8-uax.text">
+        <source>Ny behandling</source>
+        <target>Ny behandling</target>
+        <note>Class = "UILabel"; text = "Ny behandling"; ObjectID = "OP2-D8-uax";</note>
+      </trans-unit>
+      <trans-unit id="PU3-FY-d78.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "PU3-FY-d78";</note>
+      </trans-unit>
+      <trans-unit id="Ppc-uS-e1W.normalTitle">
+        <source>Skapa konto</source>
+        <target>Skapa konto</target>
+        <note>Class = "UIButton"; normalTitle = "Skapa konto"; ObjectID = "Ppc-uS-e1W";</note>
+      </trans-unit>
+      <trans-unit id="Qzo-kS-QpP.normalTitle">
+        <source>Göteborg</source>
+        <target>Göteborg</target>
+        <note>Class = "UIButton"; normalTitle = "Göteborg"; ObjectID = "Qzo-kS-QpP";</note>
+      </trans-unit>
+      <trans-unit id="R9O-4d-LWS.text">
+        <source>Historik</source>
+        <target>Historik</target>
+        <note>Class = "UILabel"; text = "Historik"; ObjectID = "R9O-4d-LWS";</note>
+      </trans-unit>
+      <trans-unit id="R17-xa-bTi.title">
+        <source>❮ Gå ut</source>
+        <target>❮ Gå ut</target>
+        <note>Class = "UIBarButtonItem"; title = "❮ Gå ut"; ObjectID = "R17-xa-bTi";</note>
+      </trans-unit>
+      <trans-unit id="U1U-0G-rqk.placeholder">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "U1U-0G-rqk";</note>
+      </trans-unit>
+      <trans-unit id="U3j-lL-Ish.title">
+        <source>❮Start</source>
+        <target>❮Start</target>
+        <note>Class = "UIBarButtonItem"; title = "❮Start"; ObjectID = "U3j-lL-Ish";</note>
+      </trans-unit>
+      <trans-unit id="X0Z-PN-ycs.normalTitle">
+        <source>Malmö</source>
+        <target>Malmö</target>
+        <note>Class = "UIButton"; normalTitle = "Malmö"; ObjectID = "X0Z-PN-ycs";</note>
+      </trans-unit>
+      <trans-unit id="YKk-NW-gTG.placeholder">
+        <source>e-mail</source>
+        <target>e-mail</target>
+        <note>Class = "UITextField"; placeholder = "e-mail"; ObjectID = "YKk-NW-gTG";</note>
+      </trans-unit>
+      <trans-unit id="YWJ-mq-Fjq.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "YWJ-mq-Fjq";</note>
+      </trans-unit>
+      <trans-unit id="YqO-Bh-cmW.normalTitle">
+        <source>- Patientföreningar</source>
+        <target>- Patientföreningar</target>
+        <note>Class = "UIButton"; normalTitle = "- Patientföreningar"; ObjectID = "YqO-Bh-cmW";</note>
+      </trans-unit>
+      <trans-unit id="YsB-R1-nbY.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "YsB-R1-nbY";</note>
+      </trans-unit>
+      <trans-unit id="ZAe-iI-Rah.title">
+        <source>❮ Gå ut</source>
+        <target>❮ Gå ut</target>
+        <note>Class = "UIBarButtonItem"; title = "❮ Gå ut"; ObjectID = "ZAe-iI-Rah";</note>
+      </trans-unit>
+      <trans-unit id="ZBv-lU-s5o.normalTitle">
+        <source>Luleå</source>
+        <target>Luleå</target>
+        <note>Class = "UIButton"; normalTitle = "Luleå"; ObjectID = "ZBv-lU-s5o";</note>
+      </trans-unit>
+      <trans-unit id="Zmz-Mw-yuc.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Zmz-Mw-yuc";</note>
+      </trans-unit>
+      <trans-unit id="aSk-Ay-VKx.text">
+        <source>ASIH</source>
+        <target>ASIH</target>
+        <note>Class = "UILabel"; text = "ASIH"; ObjectID = "aSk-Ay-VKx";</note>
+      </trans-unit>
+      <trans-unit id="bEI-hL-E9Q.title">
+        <source>Behandlingar</source>
+        <target>Behandlingar</target>
+        <note>Class = "UINavigationItem"; title = "Behandlingar"; ObjectID = "bEI-hL-E9Q";</note>
+      </trans-unit>
+      <trans-unit id="c20-YR-rCU.normalTitle">
+        <source>Lägg till</source>
+        <target>Lägg till</target>
+        <note>Class = "UIButton"; normalTitle = "Lägg till"; ObjectID = "c20-YR-rCU";</note>
+      </trans-unit>
+      <trans-unit id="cbT-zl-Nmi.text">
+        <source>Ny användare</source>
+        <target>Ny användare</target>
+        <note>Class = "UILabel"; text = "Ny användare"; ObjectID = "cbT-zl-Nmi";</note>
+      </trans-unit>
+      <trans-unit id="cxC-7v-iUH.title">
+        <source>Behandlingar</source>
+        <target>Behandlingar</target>
+        <note>Class = "UINavigationItem"; title = "Behandlingar"; ObjectID = "cxC-7v-iUH";</note>
+      </trans-unit>
+      <trans-unit id="dD7-bN-HOZ.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "dD7-bN-HOZ";</note>
+      </trans-unit>
+      <trans-unit id="egJ-D5-7RH.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "egJ-D5-7RH";</note>
+      </trans-unit>
+      <trans-unit id="f9h-UC-d6P.title">
+        <source>❮ Tillbaka</source>
+        <target>❮ Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "❮ Tillbaka"; ObjectID = "f9h-UC-d6P";</note>
+      </trans-unit>
+      <trans-unit id="fSU-uW-PmL.title">
+        <source>❮Tillbaka</source>
+        <target>❮Tillbaka</target>
+        <note>Class = "UIBarButtonItem"; title = "❮Tillbaka"; ObjectID = "fSU-uW-PmL";</note>
+      </trans-unit>
+      <trans-unit id="fbH-4o-BeP.normalTitle">
+        <source>- Sjukhus i sverige</source>
+        <target>- Sjukhus i sverige</target>
+        <note>Class = "UIButton"; normalTitle = "- Sjukhus i sverige"; ObjectID = "fbH-4o-BeP";</note>
+      </trans-unit>
+      <trans-unit id="ffd-aS-h2o.normalTitle">
+        <source>Göteborg</source>
+        <target>Göteborg</target>
+        <note>Class = "UIButton"; normalTitle = "Göteborg"; ObjectID = "ffd-aS-h2o";</note>
+      </trans-unit>
+      <trans-unit id="g3W-Sa-L49.text">
+        <source>Färdtjänst</source>
+        <target>Färdtjänst</target>
+        <note>Class = "UILabel"; text = "Färdtjänst"; ObjectID = "g3W-Sa-L49";</note>
+      </trans-unit>
+      <trans-unit id="gRm-d5-bUl.text">
+        <source>Senaste behandlingar</source>
+        <target>Senaste behandlingar</target>
+        <note>Class = "UILabel"; text = "Senaste behandlingar"; ObjectID = "gRm-d5-bUl";</note>
+      </trans-unit>
+      <trans-unit id="gZe-cm-1GP.normalTitle">
+        <source>Lägg till</source>
+        <target>Lägg till</target>
+        <note>Class = "UIButton"; normalTitle = "Lägg till"; ObjectID = "gZe-cm-1GP";</note>
+      </trans-unit>
+      <trans-unit id="hdf-Q9-GeF.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "hdf-Q9-GeF";</note>
+      </trans-unit>
+      <trans-unit id="ivN-JA-tLK.title">
+        <source>Kontakter</source>
+        <target>Kontakter</target>
+        <note>Class = "UINavigationItem"; title = "Kontakter"; ObjectID = "ivN-JA-tLK";</note>
+      </trans-unit>
+      <trans-unit id="ixb-ft-MON.normalTitle">
+        <source>- Försäkringskassan</source>
+        <target>- Försäkringskassan</target>
+        <note>Class = "UIButton"; normalTitle = "- Försäkringskassan"; ObjectID = "ixb-ft-MON";</note>
+      </trans-unit>
+      <trans-unit id="j5l-Ul-W5t.normalTitle">
+        <source>Malmö</source>
+        <target>Malmö</target>
+        <note>Class = "UIButton"; normalTitle = "Malmö"; ObjectID = "j5l-Ul-W5t";</note>
+      </trans-unit>
+      <trans-unit id="k83-iG-0s1.text">
+        <source>Vårdmottagningar</source>
+        <target>Vårdmottagningar</target>
+        <note>Class = "UILabel"; text = "Vårdmottagningar"; ObjectID = "k83-iG-0s1";</note>
+      </trans-unit>
+      <trans-unit id="kNz-IE-wsf.title">
+        <source>Mina mediciner</source>
+        <target>Mina mediciner</target>
+        <note>Class = "UINavigationItem"; title = "Mina mediciner"; ObjectID = "kNz-IE-wsf";</note>
+      </trans-unit>
+      <trans-unit id="lgg-sT-EMb.normalTitle">
+        <source>Stockholm</source>
+        <target>Stockholm</target>
+        <note>Class = "UIButton"; normalTitle = "Stockholm"; ObjectID = "lgg-sT-EMb";</note>
+      </trans-unit>
+      <trans-unit id="njO-9q-PdV.normalTitle">
+        <source>Avbryt</source>
+        <target>Avbryt</target>
+        <note>Class = "UIButton"; normalTitle = "Avbryt"; ObjectID = "njO-9q-PdV";</note>
+      </trans-unit>
+      <trans-unit id="pwh-JW-yQ3.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "pwh-JW-yQ3";</note>
+      </trans-unit>
+      <trans-unit id="reN-cI-d5Z.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "reN-cI-d5Z";</note>
+      </trans-unit>
+      <trans-unit id="taI-VT-PaJ.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "taI-VT-PaJ";</note>
+      </trans-unit>
+      <trans-unit id="tzY-aK-w2D.placeholder">
+        <source>new treatment</source>
+        <target>new treatment</target>
+        <note>Class = "UITextField"; placeholder = "new treatment"; ObjectID = "tzY-aK-w2D";</note>
+      </trans-unit>
+      <trans-unit id="u2y-NK-MZ1.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "u2y-NK-MZ1";</note>
+      </trans-unit>
+      <trans-unit id="ugf-NG-W3N.normalTitle">
+        <source>Stockholm</source>
+        <target>Stockholm</target>
+        <note>Class = "UIButton"; normalTitle = "Stockholm"; ObjectID = "ugf-NG-W3N";</note>
+      </trans-unit>
+      <trans-unit id="vnk-Sv-ghm.normalTitle">
+        <source>Enter</source>
+        <target>Enter</target>
+        <note>Class = "UIButton"; normalTitle = "Enter"; ObjectID = "vnk-Sv-ghm";</note>
+      </trans-unit>
+      <trans-unit id="wdI-tL-ZrY.normalTitle">
+        <source>Luleå</source>
+        <target>Luleå</target>
+        <note>Class = "UIButton"; normalTitle = "Luleå"; ObjectID = "wdI-tL-ZrY";</note>
+      </trans-unit>
+      <trans-unit id="xS8-lV-tIc.normalTitle">
+        <source>- Mina mediciner</source>
+        <target>- Mina mediciner</target>
+        <note>Class = "UIButton"; normalTitle = "- Mina mediciner"; ObjectID = "xS8-lV-tIc";</note>
+      </trans-unit>
+      <trans-unit id="yIn-EL-JNp.placeholder">
+        <source>e-mail</source>
+        <target>e-mail</target>
+        <note>Class = "UITextField"; placeholder = "e-mail"; ObjectID = "yIn-EL-JNp";</note>
+      </trans-unit>
+      <trans-unit id="yic-Zn-RUY.normalTitle">
+        <source>Malmö</source>
+        <target>Malmö</target>
+        <note>Class = "UIButton"; normalTitle = "Malmö"; ObjectID = "yic-Zn-RUY";</note>
+      </trans-unit>
+      <trans-unit id="zFF-Wy-7dV.normalTitle">
+        <source>Göteborg</source>
+        <target>Göteborg</target>
+        <note>Class = "UIButton"; normalTitle = "Göteborg"; ObjectID = "zFF-Wy-7dV";</note>
+      </trans-unit>
+      <trans-unit id="zj1-85-EEt.normalTitle">
+        <source>- Tips och råd</source>
+        <target>- Tips och råd</target>
+        <note>Class = "UIButton"; normalTitle = "- Tips och råd"; ObjectID = "zj1-85-EEt";</note>
+      </trans-unit>
+      <trans-unit id="zxy-4r-7Rd.normalTitle">
+        <source>- Vårdkontakter</source>
+        <target>- Vårdkontakter</target>
+        <note>Class = "UIButton"; normalTitle = "- Vårdkontakter"; ObjectID = "zxy-4r-7Rd";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SjukStugan/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="en-GB">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
